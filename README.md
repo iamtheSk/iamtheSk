@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salmankhan</h1>
-<h3 align="center">A Future Full-Stack Developer(Now on Learning)</h3>
+<h3 align="center">i'm an Aspiring Full-Stack Developer(Now on Learning)</h3>
 
 
 
