@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Salmankhan</h1>
-<h3 align="center">i'm an Aspiring Full-Stack Developer(Now on Learning)</h3>
+<h3 align="center">i'm an Aspiring Full-Stack Developer and Data Scientist (Now on Learning)</h3>
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamthesk&label=Profile%20views&color=0e75b6&style=flat" alt="iamthesk" /> </p>
 
-- 🌱 I’m currently learning  **MERAN , Java,C++ With DSA**
+- 🌱 I’m currently learning  **MERAN , Java,C++ With DSA , Data Science**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Python,Java**
 
 - 📫 How to reach me **iamsk04.r@gmail.com**
 
