@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Salmankhan</h1>
+<h1 align="center" style='color : white;'>Hi 👋, I'm Salmankhan</h1>
 <h4 align="center">I'm an Aspiring Full-Stack web Developer | Proficient in HTML, CSS, JavaScript, and React | Passionate about creating dynamic and user-friendly web applications | Eager to collaborate on innovative projects | Committed to continuous learning and growth.</h4>
 
 <br />
