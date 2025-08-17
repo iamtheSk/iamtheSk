@@ -1,11 +1,11 @@
 <h1 align="center" color='#ffffff' >Hi 👋, I'm Salmankhan</h1>
-<h4 align="center">I'm an Aspiring Full-Stack web Developer | Proficient in HTML, CSS, JavaScript, and React | Passionate about creating dynamic and user-friendly web applications | Eager to collaborate on innovative projects | Committed to continuous learning and growth.</h4>
+<h4 align="center">I'm an Full-Stack web Developer | Proficient in JavaScript,TypeScript and React | Passionate about creating dynamic and user-friendly web applications | Eager to collaborate on innovative projects | Committed to continuous learning and growth.</h4>
 
 <br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamthesk&label=Profile%20views&color=0e75b6&style=flat" alt="iamthesk" /> </p>
 
-- 🌱 I’m currently learning  **MERN**
+- 🌱 I’m currently learning  **Devops**
 
 - 💬 Ask me about **Web Dev**
 
